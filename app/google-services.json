@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "128961526998",
+    "firebase_url": "https://cook-it-out.firebaseio.com",
+    "project_id": "cook-it-out",
+    "storage_bucket": "cook-it-out.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128961526998:android:ffc761eb6c470337",
+        "android_client_info": {
+          "package_name": "the_fangovvers.cookitout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128961526998-96o62bf71k253rnjb3toig839ks26vrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "the_fangovvers.cookitout",
+            "certificate_hash": "8086a1265f5ac155260fded92fd80ef3dc47a913"
+          }
+        },
+        {
+          "client_id": "128961526998-lbqghaq71gd9brevv8vfr1idtukrurpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "the_fangovvers.cookitout",
+            "certificate_hash": "fcda25a3406ca5855fd7a21358953a02ec9d6117"
+          }
+        },
+        {
+          "client_id": "128961526998-42sv7hts1nviq6r0644nvlsjs6taoao6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5CRmNqtkKFeZdqULHfEHOvw4R_vRFtCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128961526998-42sv7hts1nviq6r0644nvlsjs6taoao6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

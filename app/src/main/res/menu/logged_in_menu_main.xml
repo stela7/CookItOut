@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home_item"
+        android:title="@string/list_of_recipes"
+        android:icon="@drawable/home"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:title="@string/categories"
+        android:id="@+id/categories_item"
+        android:icon="@drawable/categories"
+        app:showAsAction="always">
+    </item>
+
+
+    <item
+        android:id="@+id/basket_item"
+        android:title="basket"
+        android:icon="@drawable/basket"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/logOut_item"
+        android:title="@string/log_out"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/about_item"
+        android:title="@string/about_application"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/credits_item"
+        android:title="@string/credits"
+        app:showAsAction="ifRoom">
+    </item>
+
+
+</menu>
